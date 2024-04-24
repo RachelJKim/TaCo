@@ -42,7 +42,7 @@ The palette.py file defines a collection of predefined color palettes, such as t
 The taco.py file contains the core functionality of the TaCo library. It defines the *SVG* class, which provides methods for generating SVG elements such as rectangles and Taxels. The *Taxel* class represents a color using a combination of a hueline (representing saturation and hue) and a baseline (representing value). The file also defines the *Canvas* class, which represents an SVG canvas and allows adding SVG elements to it.
 ### util.py
 The util.py file contains utility functions used by the TaCo.
-    - function `rgb_to_hsv` | converts an RGB color to its HSV representation.
+- function `rgb_to_hsv` | converts an RGB color to its HSV representation.
 
 ---
 
