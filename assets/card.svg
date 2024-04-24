@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="50mm"
+     height="50mm"
+     viewBox="0 0 50 50">
+<rect x="2.614" y="4.82"
+      width="3.886" height="0.6"
+      rx="0.3"
+
+      transform="rotate(3.07 6.2 5.12)"
+/>
+<rect x="2" y="5.5"
+      width="4.5" height="0.887"
+      rx="0.4"
+
+/><rect x="12.0" y="4.82"
+      width="4.5" height="0.6"
+      rx="0.3"
+
+      transform="rotate(9.45 16.2 5.12)"
+/>
+<rect x="12" y="5.5"
+      width="4.5" height="0.814"
+      rx="0.4"
+
+/><rect x="22.0" y="4.82"
+      width="4.5" height="0.6"
+      rx="0.3"
+
+      transform="rotate(26.1 26.2 5.12)"
+/>
+<rect x="22" y="5.5"
+      width="4.5" height="0.814"
+      rx="0.4"
+
+/><rect x="2.0" y="15.82"
+      width="4.5" height="0.6"
+      rx="0.3"
+
+      transform="rotate(83.16 6.2 16.1)"
+/>
+<rect x="2" y="16.5"
+      width="4.5" height="2.019"
+      rx="0.4"
+
+/><rect x="12.0" y="15.82"
+      width="4.5" height="0.6"
+      rx="0.3"
+
+      transform="rotate(100.25 16.2 16.1)"
+/>
+<rect x="12" y="16.5"
+      width="4.5" height="1.569"
+      rx="0.4"
+
+/><rect x="22.17" y="15.82"
+      width="4.33" height="0.6"
+      rx="0.3"
+
+      transform="rotate(121.96 26.2 16.1)"
+/>
+<rect x="22" y="16.5"
+      width="4.5" height="2.193"
+      rx="0.4"
+
+/><rect x="2.0" y="26.82"
+      width="4.5" height="0.6"
+      rx="0.3"
+
+      transform="rotate(133.335 6.2 27.1)"
+/>
+<rect x="2" y="27.5"
+      width="4.5" height="2.28"
+      rx="0.4"
+
+/><rect x="12.987" y="26.82"
+      width="3.513" height="0.6"
+      rx="0.3"
+
+      transform="rotate(150.0 16.2 27.1)"
+/>
+<rect x="12" y="27.5"
+      width="4.5" height="1.787"
+      rx="0.4"
+
+/><rect x="25.324" y="26.82"
+      width="1.176" height="0.6"
+      rx="0.3"
+
+      transform="rotate(160.0 26.2 27.1)"
+/>
+<rect x="22" y="27.5"
+      width="4.5" height="1.003"
+      rx="0.4"
+
+/><rect x="5.8" y="37.82"
+      width="0.7" height="0.6"
+      rx="0.3"
+
+      transform="rotate(12.855 6.2 38.1)"
+/>
+<rect x="2" y="38.5"
+      width="4.5" height="3.847"
+      rx="0.4"
+
+/><rect x="16.421" y="37.82"
+      width="0.079" height="0.6"
+      rx="0.3"
+
+      transform="rotate(110.0 16.2 38.1)"
+/>
+<rect x="12" y="38.5"
+      width="4.5" height="2.033"
+      rx="0.4"
+
+/><rect x="26.037" y="37.82"
+      width="0.464" height="0.6"
+      rx="0.3"
+
+      transform="rotate(14.12 26.2 38.1)"
+/>
+<rect x="22" y="38.5"
+      width="4.5" height="2.106"
+      rx="0.4"
+
+/>
+</svg>
