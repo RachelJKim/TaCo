@@ -1338,8 +1338,7 @@ class PANTONE:
     indian_teal = rgb_to_hsv(149, 71, 149)
     stargazer = rgb_to_hsv(117, 97, 36)
     orion_blue = rgb_to_hsv(8, 53, 72)
-    forget_me -
-    not = rgb_to_hsv(65, 97, 37)
+    forget_me_not = rgb_to_hsv(65, 97, 37)
     faded_denim = rgb_to_hsv(150, 99, 114)
     blue_shadow = rgb_to_hsv(113, 129, 6)
     coronet_blue = rgb_to_hsv(134, 32, 48)
@@ -1944,7 +1943,7 @@ class PANTONE:
     travertine = rgb_to_hsv(68, 37, 87)
     starfish = rgb_to_hsv(87, 56, 121)
     semolina = rgb_to_hsv(84, 118, 115)
-    curds_and -whey = rgb_to_hsv(54, 40, 131)
+    curds_and_whey = rgb_to_hsv(54, 40, 131)
     tigers_eye = rgb_to_hsv(146, 119, 119)
     toasted_coconut = rgb_to_hsv(19, 103, 25)
     rain_drum = rgb_to_hsv(36, 84, 64)
