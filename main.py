@@ -33,10 +33,10 @@ if __name__ == '__main__':
     ###### making named colors (PANTONE)
     canvas2 = Canvas(50,50)
     canvas2.filename = 'src/assets/card.svg'
-    card_colors = [[PANTONE.brightred, PANTONE.orange021, PANTONE.yellow],
-                   [PANTONE.green, PANTONE.processblue, PANTONE.blue072],
-                   [PANTONE.violet, PANTONE.purple, PANTONE.magenta0521],
-                   [PANTONE.black, PANTONE.coolgray6, PANTONE.warmgray6]
+    card_colors = [[PANTONE.bright_aqua, PANTONE.orange_com, PANTONE.yellow_iris],
+                   [PANTONE.greenery, PANTONE.provence, PANTONE.bluejay],
+                   [PANTONE.violet, PANTONE.purple_potion, PANTONE.magenta],
+                   [PANTONE.black_bean, PANTONE.cool_blue, PANTONE.warm_olive]
                    ]
     
     for row, colors_row in enumerate(card_colors):
